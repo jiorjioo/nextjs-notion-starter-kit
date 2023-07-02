@@ -19,8 +19,7 @@ export default siteConfig({
   // social usernames (optional)
   twitter: 'brainrefujiz',
   github: 'jiorjioo',
-  linkedin: 'balmabahiraa',
-  instagram: 'balmabahiraa'
+  linkedin: 'balmabahiraa'
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
